@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">STORY APP</string>
+    <string name="email">Email</string>
+    <string name="check_email">Your email is invalid!</string>
+    <string name="password">Password</string>
+    <string name="check_password">Your password is invalid!</string>
+    <string name="message_email">Input your email!</string>
+    <string name="message_password">Input your password!</string>
+    <string name="Lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</string>
+    <string name="logo">Logo</string>
+    <string name="regis">Sign Up</string>
+    <string name="noAccount">Dont Have an Account? </string>
+    <string name="login">Login</string>
+    <string name="haveAccount">Have an Account? </string>
+    <string name="username">Username</string>
+    <string name="not_found">Cannot find your story</string>
+    <string name="add_story">Add Story</string>
+    <string name="login_error">Your Email or Password is invalid</string>
+    <string name="login_success">Login success</string>
+    <string name="register_error">Registration failed, user already exists or email is invalid</string>
+    <string name="register_success">Registration success</string>
+    <string name="permissions">Not getting permission</string>
+    <string name="story_validate">Please enter the image file or fill in the description first</string>
+    <string name="story_success">Success added story</string>
+    <string name="story_error">Added failed story</string>
+    <string name="maps">maps</string>
+    <string name="logout">logout</string>
+    <string name="story_not_found">Story Not Found</string>
+    <string name="style_not_success">Style parsing failed</string>
+    <string name="style_not_found">Can\'t find style. Error:</string>
+    <string name="retry">retry</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+</resources>

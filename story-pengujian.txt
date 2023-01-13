@@ -1,0 +1,44 @@
+=VIEW MODEL=
+1. LoginViewModelTest :
+    	a.) Ketika berhasil masuk/login :
+		- Memastikan data tidak null
+		- Memastikan login response sukses
+
+ 	b.) Ketika gagal masuk/login :
+                - Memastikan data tidak null
+		- Memastikan mengembalikan response error
+
+
+2. SignUpViewModelTest:
+	a.) Ketika berhasil membuat akun :
+		- Memastikan data tidak null
+	    	- Memastikan mengembalikan response sukses
+
+	b.) Ketika gagal membuat akun :
+		- Memastikan data tidak null
+	    	- Memastikan mengembalikan response error
+
+
+3. MainViewModelTest :
+	a.) Ketika berhasil memuat data list paging story :
+		- Memastikan data tidak null
+		- Memastikan jumlah data sesuai dengan yang diharapkan
+		- Memastikan jika isi data id pertama yang diharapkan sesuai dengan id pertama
+                  yang dihasilkan
+
+
+4. StoryViewModelTest:
+	a.) Ketika berhasil menambah cerita :
+		- Memastikan data tidak null
+		- Memastikan mengembalikan response sukses
+
+	b.) Ketika gagal menambah cerita :
+		- Memastikan data tidak null
+	    	- Memastikan mengembalikan response error
+
+
+5. MapsViewModel :
+	a.) Ketika berhasil memuat data list story dengan lokasi :
+		- Memastikan data tidak null
+		- Memastikan response data berhasil
+		- Memastikan jika isi data sesuai dengan yang diharapkan
